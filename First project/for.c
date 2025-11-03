@@ -4,7 +4,7 @@ int main(){
     int pippo[10];
     int i;
 
-    for (i = 0; i < 10; i++){
+    for (i = 0; i < 3; i++){
         printf("Inserisci un numero intero \n");
         scanf("%d", &pippo[i]);
     }
